@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiOpeqe", "ApiOpeqe\ApiOpeqe.csproj", "{DF16C514-BEBF-4C85-AB03-ECCBF5233FA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{98C20409-B998-429B-89B6-9999FE2BD137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{7717CE18-463C-4EBE-A057-AF0D284FBD35}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF16C514-BEBF-4C85-AB03-ECCBF5233FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF16C514-BEBF-4C85-AB03-ECCBF5233FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF16C514-BEBF-4C85-AB03-ECCBF5233FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF16C514-BEBF-4C85-AB03-ECCBF5233FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98C20409-B998-429B-89B6-9999FE2BD137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98C20409-B998-429B-89B6-9999FE2BD137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98C20409-B998-429B-89B6-9999FE2BD137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98C20409-B998-429B-89B6-9999FE2BD137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7717CE18-463C-4EBE-A057-AF0D284FBD35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7717CE18-463C-4EBE-A057-AF0D284FBD35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7717CE18-463C-4EBE-A057-AF0D284FBD35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7717CE18-463C-4EBE-A057-AF0D284FBD35}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA0C4B5E-4474-4FE1-9786-11CD58BD5121}
+	EndGlobalSection
+EndGlobal
